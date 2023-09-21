@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ramya Nagaraj</h1>
-<h3 align="center">A passionate Frontend Developer From India</h3>
+<h1 align="center">Hey 👋, I'm Ramya Nagaraj</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramya-24-97&label=Profile%20views&color=0e75b6&style=flat" alt="ramya-24-97" /> </p>
 
